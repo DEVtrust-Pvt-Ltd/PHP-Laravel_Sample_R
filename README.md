@@ -1,2 +1,2 @@
-# PHP-Laravel_Sample_R
-PHP Laravel sample code
+# PHP-Laravel_Samplecode
+PHP Laravel Sample code
